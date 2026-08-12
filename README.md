@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91866127%3Fv%3D4&w=240&h=240&fit=cover&mask=circle&output=png" width="120" height="120" alt="Cyber Reinxy" />
 <h3>C&nbsp;Y&nbsp;B&nbsp;E&nbsp;R&nbsp;&nbsp;&nbsp;R&nbsp;E&nbsp;I&nbsp;N&nbsp;X&nbsp;Y</h3>
-`frontend-leaning full-stack developer` &nbsp;·&nbsp; `Dar es Salaam, Tanzania`
 
+![role](https://img.shields.io/badge/role-full--stack_dev-black?style=flat-square)
 ![status](https://img.shields.io/badge/status-shipping-black?style=flat-square)
 ![base](https://img.shields.io/badge/base-Dar_es_Salaam-black?style=flat-square)
 ![studio](https://img.shields.io/badge/studio-Reinmax_Creative-black?style=flat-square)
